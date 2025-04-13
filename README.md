@@ -1,4 +1,4 @@
-🎮  Fondateur d’Orcraft, un serveur Minecraft ! orcraft https://orcraft.wstr.fr
+🎮  Fondateur d’Orcraft, un serveur Minecraft ! https://orcraft.wstr.fr
 
 🎵 Artiste 
 
