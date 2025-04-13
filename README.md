@@ -6,7 +6,8 @@
 
 🔗  Rejoignez-nous : Discord https://discord.gg/bD4hxPDTvc
 
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCzdSM07jK-9ceXqelxaRl_A?label=Abonn%C3%A9e) ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCzdSM07jK-9ceXqelxaRl_A?label=Vues) ![Twitch Status](https://img.shields.io/twitch/status/orsonblocktv)
+
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCzdSM07jK-9ceXqelxaRl_A?label=Abonn%C3%A9e) ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCzdSM07jK-9ceXqelxaRl_A?label=Vues) ![Twitch Status](https://img.shields.io/twitch/status/orsonblocktv) ![Discord](https://img.shields.io/discord/955103000257499168?style=social&logo=Discord&logoColor=blue&label=Discord)
 
 
 [![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](#)
