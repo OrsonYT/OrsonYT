@@ -5,10 +5,7 @@
 - 🎵 **Artiste**
 - 📺 **Créateur de contenu sur [YouTube](https://youtube.com/@OrsonOff)**
 - 🔗 **[Rejoignez-nous sur Discord](https://discord.gg/bD4hxPDTvc)**
-
-## Statistiques 
-![Abonnés](https://img.shields.io/youtube/channel/subscribers/UCzdSM07jK-9ceXqelxaRl_A?label=Abonn%C3%A9s) ![Vues](https://img.shields.io/youtube/channel/views/UCzdSM07jK-9ceXqelxaRl_A?label=Vues)  ![Twitch Status](https://img.shields.io/twitch/status/orsonblocktv) ![Discord](https://img.shields.io/discord/955103000257499168?style=social&logo=Discord&logoColor=blue&label=Discord) ![GitHub deployments](https://img.shields.io/github/deployments/orsonyt/orsonyt/github-pages?logo=github&label=GitHub%20Page%20D%C3%A9ploiement%20Statut)
-
+ 
 ## Compétences techniques
 [![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](#)
 [![Javascript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#)
