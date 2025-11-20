@@ -6,10 +6,10 @@
 - 📺 **Créateur de contenu sur [YouTube](https://youtube.com/@OrsonOff)**
  
 ## Compétences techniques
-[![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](#)
+[![Html 5](https://img.shields.io/badge/Html%205-ED8B00.svg?style=for-the-badge&logo=html5&logoColor=white)](#)
 [![Javascript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#)
 [![Swift](https://img.shields.io/badge/Swift-ED8B00.svg?style=for-the-badge&logo=swift&logoColor=white)](#)
-[![Html 5](https://img.shields.io/badge/Html%205-ED8B00.svg?style=for-the-badge&logo=html5&logoColor=white)](#)
+[![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](#)
 [![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)](#)
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
