@@ -4,6 +4,7 @@
 - 💼 **Fondateur d’[Orcraft](https://www.orcraft.net)** !
 - 🎵 **Artiste**
 - 📺 **Créateur de contenu sur [YouTube](https://youtube.com/@OrsonOff)**
+- 🛠️ **Apple Developer**
  
 ## Compétences techniques
 [![Html 5](https://img.shields.io/badge/Html%205-ED8B00.svg?style=for-the-badge&logo=html5&logoColor=white)](#)
