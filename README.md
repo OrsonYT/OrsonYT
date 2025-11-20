@@ -1,10 +1,9 @@
 # Bienvenue sur mon profil GitHub 👋
 
 ## À propos de moi
-- 🎮 **Fondateur d’[Orcraft](https://orcraft.wstr.fr)**, un serveur Minecraft !
+- 💼 **Fondateur d’[Orcraft](https://www.orcraft.net)** !
 - 🎵 **Artiste**
 - 📺 **Créateur de contenu sur [YouTube](https://youtube.com/@OrsonOff)**
-- 🔗 **[Rejoignez-nous sur Discord](https://discord.gg/bD4hxPDTvc)**
  
 ## Compétences techniques
 [![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](#)
